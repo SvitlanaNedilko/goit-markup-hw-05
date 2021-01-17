@@ -297,6 +297,7 @@ ul {
 .benefit-description {
   margin-top: 0;
   margin-bottom: 0px;
+  font-size: 14px;
   line-height: 1.71;
 }
 
@@ -555,7 +556,7 @@ ul {
 .filter-button {
   border: 1px solid transparent;
   border-radius: 4px;
-  padding: 10px 32px;
+  padding: 6px 22px;
   min-width: 73px;
   cursor: pointer;
 
